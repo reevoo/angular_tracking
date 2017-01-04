@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+
+# Built by webpack
+dist/*
+
+# Atom editor
+.tags*
